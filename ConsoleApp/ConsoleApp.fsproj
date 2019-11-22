@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="qsort.fs" />
+    <Compile Include="RGBtoHEX.fs" />
+    <Compile Include="Helpers.fs" />
+    <Compile Include="ErrorPrinter.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
