@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="BCL_wrappers.fs" />
+    <Compile Include="Logging.fs" />
+    <Compile Include="Pipes_Composition.fs" />
+    <Compile Include="Sandbox.fs" />
     <Compile Include="qsort.fs" />
     <Compile Include="RGBtoHEX.fs" />
     <Compile Include="Helpers.fs" />

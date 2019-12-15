@@ -15,5 +15,5 @@ let testQSort () = Seq.toList "bcz,xvb,xmcvnb,smdfwrwrsdksdadaslkdjsalkdjaslkdm,
 
 [<EntryPoint>]
 let main argv =
-    testQSort ()
+    Pipes_Composition.test ()    
     0 // return an integer exit code
